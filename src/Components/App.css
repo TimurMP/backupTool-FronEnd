@@ -1,0 +1,11 @@
+.add-device-button {
+    color: #D7E1EC;
+    text-align: center;
+    /*font-family: Inter;*/
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; /* 171.429% */
+    letter-spacing: 0.28px;
+
+}
